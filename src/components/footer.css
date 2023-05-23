@@ -1,0 +1,19 @@
+.f {
+    padding-bottom: 20px;
+    text-align: center;
+    
+    bottom: 0;
+    left: 0;
+     width: 100%;
+    background-color: rgb(75, 75, 75);
+  }
+  .adc{
+    padding-top: 20px;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+  }
+  .icon{
+    padding-left: 10px;
+    padding-right:10px;
+}

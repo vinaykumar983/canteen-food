@@ -1,0 +1,83 @@
+.foot {
+    padding-bottom: 20px;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+     width: 100%;
+    background-color: rgb(75, 75, 75);
+  }
+  .adc{
+    padding-top: 20px;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+  }
+  .icon{
+    padding-left: 10px;
+    padding-right:10px;
+}
+
+
+.a1{
+    background-image: linear-gradient(#a1c4fd,rgb(107, 161, 137));
+    box-shadow: 12px 12px 12px;
+}
+
+.b1{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+
+label{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+
+.z{
+    background-image: "https://st3.depositphotos.com/13324256/i/600/depositphotos_364030124-stock-photo-top-view-pasta-beans-groats.jpg";
+}
+
+.k2{
+    background-image: linear-gradient(#a1c4fd,rgb(107, 161, 137));
+}
+
+.k4{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+
+
+@media(min-width:0px) and (max-width:480px){
+    .xz{
+        margin-bottom: 51%;
+    }
+  }
+  
+  @media(min-width:481px) and (max-width:768px){
+    .xz{
+        margin-bottom: 26%;
+    }
+  }
+  @media(min-width:769px) and (max-width:2000px){
+    .xz{
+        margin-bottom: 6.5%;
+    }
+  }
+
+@media(min-width:0px) and (max-width:480px){
+  .zx{
+      margin-bottom: 93%;
+  }
+}
+
+@media(min-width:481px) and (max-width:768px){
+  .zx{
+      margin-bottom: 58%;
+  }
+}
+@media(min-width:769px) and (max-width:2000px){
+  .zx{
+    margin-bottom: 18.25%;
+  }
+}

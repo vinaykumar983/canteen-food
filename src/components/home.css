@@ -1,0 +1,16 @@
+@media(min-width:0px) and (max-width:480px){
+    .hme{
+        margin-bottom: 120%;
+    }
+  }
+  
+  @media(min-width:481px) and (max-width:768px){
+    .hme{
+        margin-bottom: 50%;
+    }
+  }
+  @media(min-width:769px) and (max-width:1024px){
+    .hme{
+        margin-bottom: 23%;
+    }
+  }
